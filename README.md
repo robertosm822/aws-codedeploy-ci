@@ -5,3 +5,4 @@ Iniciada configurações e teste de implementaçãod e Entregra Continua com Git
 
  - Foi testado e populado as configuraçõe de scripts no SFTP da AWS e no Diretório Git.
  - Foi criado Notificações de execução em alterações de código gerado pelo serviço AWS Amazon SNS (Tópicos + Assinaturas);
+ - Teste;
